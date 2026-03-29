@@ -1,0 +1,10 @@
+Course Code : STS1004
+
+Course Name : Introduction to Problem Solving
+
+Credits : 3.0
+
+Theory Classes : 3 (per week)
+
+Lab Classes : NA
+

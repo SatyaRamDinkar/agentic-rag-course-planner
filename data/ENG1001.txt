@@ -1,0 +1,10 @@
+Course Code : ENG1001
+
+Course Name : English for Essential Communication
+
+Credits : 4.0
+
+Theory Classes : 3 (per week)
+
+Lab Classes : 1 (per week)
+

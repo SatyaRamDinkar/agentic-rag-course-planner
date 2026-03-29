@@ -1,0 +1,9 @@
+Course Code : CSE3002 
+
+Course Name : Artificial Intelligence
+
+Credits : 3.0
+
+Theory Classes : 3 (per week)
+
+Lab Classes : NA

@@ -1,0 +1,11 @@
+Course Code : CSE3004
+
+Course Name : Design and Analysis of Algorithms
+
+Credits : 4.0
+
+Theory Classes : 3 (per week)
+
+Lab Classes : 1 (per week)
+
+Pre-requisites : CSE1012, CSE2005, CSE1022, CSE2001

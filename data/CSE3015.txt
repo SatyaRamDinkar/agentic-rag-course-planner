@@ -1,0 +1,11 @@
+Course Code : CSE3015
+
+Course Name : Natural Language Processing
+
+Credits : 4.0
+
+Theory Classes : 3 (per week)
+
+Lab Classes : 1 (per week)
+
+Pre-requisites : CSE3002, CSE3008 

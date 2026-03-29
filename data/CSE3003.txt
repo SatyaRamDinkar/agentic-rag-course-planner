@@ -1,0 +1,11 @@
+Course Code : CSE3003 
+
+Course Name : Computer Networks
+
+Credits : 4.0
+
+Theory Classes : 3 (per week)
+
+Lab Classes : 1 (per week)
+
+Pre-requisites : ECE1003, ECE1012, ECE2002

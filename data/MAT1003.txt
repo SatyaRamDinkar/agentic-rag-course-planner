@@ -1,0 +1,11 @@
+Course Code : MAT1003
+
+Course Name : Discrete Mathematical
+
+Credits : 4.0
+
+Theory Classes : 4 (per week)
+
+Lab Classes : NA
+
+Pre-requisites : MAT1001, MAT1002

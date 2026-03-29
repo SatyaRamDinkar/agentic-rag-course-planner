@@ -1,0 +1,8 @@
+Type : Project
+
+Project Code : ECS3001 
+
+Project Name : Engineering Clinics - II
+
+Credits : 2.0
+

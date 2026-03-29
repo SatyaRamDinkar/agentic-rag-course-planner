@@ -1,0 +1,11 @@
+Course Code : CSE2001
+
+Course Name : Data Structures and Algorithms
+
+Credits : 4.0
+
+Theory Classes : 3 (per week)
+
+Lab Classes : 1 (per week)
+
+Pre-requisites : CSE1012, CSE2005

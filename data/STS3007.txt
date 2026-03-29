@@ -1,0 +1,11 @@
+Course Code : STS3007
+
+Course Name : Advanced Competitive Coding - I
+
+Credits : 3.0
+
+Theory Classes : 3 (per week)
+
+Lab Classes : NA
+
+Pre-requisites : STS1004, STS1009, STS2008, STS2009 

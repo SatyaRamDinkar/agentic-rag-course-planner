@@ -1,0 +1,8 @@
+Type : Project
+
+Project Code : SIT1001
+
+Project Name : Summer Internship
+
+Credits : 2.0
+

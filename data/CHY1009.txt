@@ -1,0 +1,10 @@
+Course Code : CSE2005 
+
+Course Name : Object Oriented Programming
+
+Credits : 4.0
+
+Theory Classes : 3 (per week)
+
+Lab Classes : 1 (per week)
+

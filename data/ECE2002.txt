@@ -1,0 +1,11 @@
+Course Code : ECE2002
+
+Course Name : Computer Organization and Architecture
+
+Credits : 4.0
+
+Theory Classes : 4 (per week)
+
+Lab Classes : NA
+
+Pre-requisites : ECE1003, ECE1012, ECE2002

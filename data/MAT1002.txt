@@ -1,0 +1,11 @@
+Course Code : MAT1002
+
+Course Name : Applications of Differential and Difference Equations
+
+Credits : 4.0
+
+Theory Classes : 4 (per week)
+
+Lab Classes : NA 
+
+Pre-requisites : MAT1001

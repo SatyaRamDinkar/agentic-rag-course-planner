@@ -1,0 +1,10 @@
+Course Code : CSE2025
+
+Course Name : AWS Solution Architecture
+
+Credits : 3.0
+
+Theory Classes : 2 (per week) 
+
+Lab Classes : 2 (per week)
+

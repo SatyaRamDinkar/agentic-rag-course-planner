@@ -1,0 +1,10 @@
+Course Code : ECE1012 
+
+Course Name : Fundamentals of Electrical and Electronics Engineering
+
+Credits : 4.0
+
+Theory Classes : 3 (per week)
+
+Lab Classes : 1 (per week)
+

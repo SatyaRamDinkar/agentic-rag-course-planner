@@ -1,0 +1,14 @@
+langchain
+faiss-cpu
+openai
+tiktoken
+python-dotenv
+streamlit
+unstructured
+beautifulsoup4
+requests
+crewai
+langchain-openai
+
+
+

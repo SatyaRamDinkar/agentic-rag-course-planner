@@ -1,0 +1,10 @@
+Course Code : CSE1008
+
+Course Name : Theory of Computation
+
+Credits : 4.0
+
+Theory Classes : 4 (per week)
+
+Lab Classes : NA
+

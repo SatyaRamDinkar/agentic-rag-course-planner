@@ -1,0 +1,11 @@
+Course Code : ECE1003
+
+Course Name : Digital Logic Design
+
+Credits : 4.0
+
+Theory Classes : 3 (per week)
+
+Lab Classes : 1 (per week)
+
+Pre-requisites : ECE1002

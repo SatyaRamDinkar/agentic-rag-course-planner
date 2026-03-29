@@ -1,0 +1,11 @@
+Course Code : STS2009
+
+Course Name : Arithmetic Problem Solving Skills
+
+Credits : 3.0
+
+Theory Classes : 3 (per week)
+
+Lab Classes : NA
+
+Pre-requisites : STS1004, STS1009, STS2008

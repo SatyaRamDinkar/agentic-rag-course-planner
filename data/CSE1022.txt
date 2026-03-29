@@ -1,0 +1,10 @@
+Course Code : CSE1022 
+
+Course Name : Introduction to Programming
+
+Credits : 3.0
+
+Theory Classes : 3 (per week)
+
+Lab Classes : 1 (per week)
+

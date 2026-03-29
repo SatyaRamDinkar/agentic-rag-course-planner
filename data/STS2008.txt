@@ -1,0 +1,11 @@
+Course Code : STS2008
+
+Course Name : Numerical Ability and Cognitive Intelligence
+
+Credits : 3.0
+
+Theory Classes : 3 (per week)
+
+Lab Classes : NA
+
+Pre-requisites : STS1004, STS1009

@@ -1,0 +1,11 @@
+Course Code : MAT1011 
+
+Course Name : Applied Statistics
+
+Credits : 4.0
+
+Theory Classes : 3 (per week)
+
+Lab Classes : 1 (per week)
+
+Pre-requisites : MAT1001, MAT1002, MAT1003
