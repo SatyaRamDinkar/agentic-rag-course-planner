@@ -1,10 +1,36 @@
+# Prerequisite checks
+
 Can I take CS301 after CS101?
-What are prerequisites for Database Systems?
-Do I need Math for CS degree?
-Can I take two advanced courses together?
-Is internship mandatory?
-Is course available in Fall?
-What GPA is required?
+Can I take AI course without Math?
+Do I need Data Structures before Algorithms?
 Can I skip prerequisites?
+Can I take Database Systems after Programming 1?
+Can I take advanced AI directly?
+Is Calculus required for ML?
+Do I need minimum grade in CS101?
+Can I take two dependent courses together?
+Is co-requisite mandatory?
 
+# Chain reasoning
 
+What do I need before AI course?
+What courses before Machine Learning?
+Full path to take Advanced Systems?
+What is prerequisite chain for Database?
+How to reach CS401?
+
+# Program requirements
+
+How many credits needed?
+Is internship mandatory?
+Are electives required?
+Core courses list?
+Graduation requirements?
+
+# Not in docs
+
+Is course available in Fall?
+Who teaches CS301?
+Can I take online?
+What is professor email?
+Can I override prerequisites?

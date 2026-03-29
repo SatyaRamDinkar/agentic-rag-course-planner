@@ -1,38 +1,64 @@
-# AI Course Planning Assistant
+# 🎓 Agentic RAG Course Planning Assistant
 
-## Setup
+## Overview
 
-pip install -r requirements.txt
-
-## Run Steps
-
-1. Add your OpenAI API key:
-   export OPENAI_API_KEY=your_key
-
-2. Create vector DB:
-   python src/vector_store.py
-
-3. Run system:
-   python src/rag_pipeline.py
-
-4. Run evaluation:
-   python evaluation/run_eval.py
-
-5. Run UI:
-   streamlit run app/app.py
+This project implements a Retrieval-Augmented Generation (RAG) system for academic course planning using LangChain and CrewAI.
 
 ## Features
 
-* RAG-based QA
-* Citation-based answers
-* Safe fallback ("I don't know")
+* Prerequisite reasoning with eligibility decisions
+* Course plan generation
+* Strict citation enforcement (chunk-level)
+* Safe abstention ("I don't know")
+* Multi-agent architecture
+* Evaluation metrics
 
+## Tech Stack
 
-## Advanced Features
+* Python
+* LangChain
+* FAISS
+* CrewAI
 
-* Multi-agent system using CrewAI
-* Verifier agent to reduce hallucinations
-* Structured output enforcement
-* Evaluation metrics included
-* Safe abstention mechanism
+## Pipeline
 
+1. Document ingestion
+2. Chunking (500 size, 100 overlap)
+3. Embeddings (OpenAI)
+4. FAISS vector store
+5. Retrieval (Top-k = 3)
+6. LLM generation with strict prompts
+
+## Run Instructions
+
+### Step 1
+
+pip install -r requirements.txt
+
+### Step 2
+
+export OPENAI_API_KEY=your_key
+
+### Step 3
+
+python src/vector_store.py
+
+### Step 4
+
+python src/rag_pipeline.py
+
+### Step 5 (Evaluation)
+
+python evaluation/run_eval.py
+
+## Evaluation Metrics
+
+* Citation Coverage
+* Abstention Accuracy
+* Structure Compliance
+
+## Future Improvements
+
+* Better agent coordination
+* UI improvements
+* Structured parsing of catalogs
