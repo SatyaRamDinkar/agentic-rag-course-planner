@@ -22,10 +22,14 @@ RULES:
 * If not found, say "I don't know"
 
 Context:
-{context}
+{
+    Can I take CSE4019 if I completed CSE3002, CSE3004, CSE3008, and CSE3015?
+    What is the prerequisite chain for CSE4019?
+    Can I take CSE9999?
+}
 
 Question:
-{query}
+{Enter your query:}
 
 Output format:
 
