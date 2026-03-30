@@ -4,6 +4,19 @@
 
 This project implements a Retrieval-Augmented Generation (RAG) system for academic course planning using LangChain and CrewAI.
 
+## Data Sources
+
+This project uses a custom-built dataset consisting of computer science courses and their prerequisite relationships.
+
+The dataset is inspired by real-world academic catalogs, including:
+
+* MIT Course Catalog – https://catalog.mit.edu/ (Accessed: March 2026)
+* Stanford Bulletin – https://bulletin.stanford.edu/ (Accessed: March 2026)
+* Carnegie Mellon University Course Catalog – https://coursecatalog.web.cmu.edu/ (Accessed: March 2026)
+
+These sources provide realistic course structures and prerequisite relationships, which were adapted to design the dataset used in this project.
+
+
 ## Features
 
 * Prerequisite reasoning with eligibility decisions
