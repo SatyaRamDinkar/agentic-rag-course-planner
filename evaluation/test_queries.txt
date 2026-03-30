@@ -1,36 +1,49 @@
-# Prerequisite checks
+Can I take CSE4019 if I have completed CSE3002, CSE3004, CSE3008, and CSE3015?
 
-Can I take CS301 after CS101?
-Can I take AI course without Math?
-Do I need Data Structures before Algorithms?
-Can I skip prerequisites?
-Can I take Database Systems after Programming 1?
-Can I take advanced AI directly?
-Is Calculus required for ML?
-Do I need minimum grade in CS101?
-Can I take two dependent courses together?
-Is co-requisite mandatory?
+Can I take CSE4019 if I have only completed CSE2001?
 
-# Chain reasoning
+What are the prerequisites for CSE4019?
 
-What do I need before AI course?
-What courses before Machine Learning?
-Full path to take Advanced Systems?
-What is prerequisite chain for Database?
-How to reach CS401?
+What courses do I need before taking Machine Learning (CSE3008)?
 
-# Program requirements
+Can I take CSE3008 without CSE3015?
 
-How many credits needed?
-Is internship mandatory?
-Are electives required?
-Core courses list?
-Graduation requirements?
+Can I take CSE3002 after completing CSE2001?
 
-# Not in docs
+Is CSE2001 required before taking CSE4019?
 
-Is course available in Fall?
-Who teaches CS301?
-Can I take online?
-What is professor email?
-Can I override prerequisites?
+What is the prerequisite chain for CSE4019?
+
+Can I take CSE3015 without completing CSE3004?
+
+What happens if I try to take CSE4019 without completing all prerequisites?
+
+Can I directly take CSE4019 after CSE2001?
+
+Which courses are required before taking Data Structures (CSE3002)?
+
+Can I take CSE3004 without any prerequisites?
+
+List all prerequisites for CSE3008.
+
+Can I take CSE4019 if I am missing CSE3015?
+
+What courses must I complete before Artificial Intelligence applications?
+
+Is Probability and Statistics required for Machine Learning?
+
+Can I skip Discrete Mathematics and still take AI course?
+
+What is the full dependency chain for CSE4019?
+
+Can I enroll in a course that has missing prerequisites?
+
+What are the prerequisites for a course not in the catalog?
+
+Can I take CSE9999?
+
+What should I do if prerequisite information is missing?
+
+Is there any course that does not require prerequisites?
+
+Can I take Machine Learning after completing only Discrete Mathematics?
