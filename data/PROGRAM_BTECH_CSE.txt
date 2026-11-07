@@ -1,0 +1,49 @@
+PROGRAM: Bachelor of Technology (B.Tech) in Computer Science and Engineering (CSE)
+Institution: School of Computer Science & Engineering
+Total Credits Required for Degree: 160.0 Credits
+
+1. University Core Requirements (53.0 Credits):
+- Engineering Mathematics: MAT1001 (Calculus, 4 cr), MAT1002 (Linear Algebra, 4 cr), MAT1003 (Discrete Mathematics, 4 cr), MAT1011 (Probability and Statistics, 4 cr)
+- Basic Sciences: PHY1008 (Modern Physics, 4 cr), CHY1009 (Environmental Chemistry, 3 cr)
+- Humanities & Professional Communication: ENG1001 (Basic English, 2 cr), ENG1002 (Effective Technical Communication, 2 cr), FRL1001 (Foreign Language, 2 cr), MGT1001 (Principles of Management, 2 cr), MGT1040 (Entrepreneurship and Ethics, 3 cr)
+- Soft Skills Training: STS1004, STS1009, STS2008, STS2009, STS3007, STS4006 (Total 6 cr)
+- Co-curricular & Internship: EXC2039 (Co-curricular, 1 cr), SIT1001 (Summer Industrial Internship, 2 cr)
+- Capstone Project / Thesis: CSE4037 (Comprehensive Project Work / Thesis, 12 cr)
+
+2. Program Core Requirements (58.0 Credits):
+Must complete all of the following core courses:
+- CSE1005: Software Engineering Principles (3 cr)
+- CSE1008: Principles of Programming Languages (3 cr)
+- CSE1012: Problem Solving with Python (3 cr)
+- CSE1022: Foundations of Data Science (3 cr)
+- CSE2001: Data Structures and Algorithms (4 cr)
+- CSE2005: Object Oriented Programming with Java (4 cr)
+- CSE2007: Computer Organization and Architecture (3 cr)
+- CSE2008: Operating Systems (4 cr)
+- CSE2024: Database Management Systems (4 cr)
+- CSE2025: Computer Networks (4 cr)
+- ECE1003: Basic Electrical and Electronics Engineering (3 cr)
+- ECE1012: Digital Logic Design (3 cr)
+- ECE2002: Microprocessors and Interfacing (3 cr)
+- ECS2002: Signals and Embedded Systems (3 cr)
+- ECS3001: IoT and Edge Computing (3 cr)
+- CSE3002: Advanced Data Structures & Algorithm Design (4 cr)
+- CSE3004: Theory of Computation & Automata (4 cr)
+
+3. Program Electives (Minimum 32.0 Credits required from designated elective baskets):
+Students must select at least 8 elective courses from the following:
+- CSE3003: Cloud Computing & Virtualization (3 cr)
+- CSE3008: Machine Learning and Statistical Learning (4 cr)
+- CSE3015: Compiler Design and Language Processors (4 cr)
+- CSE4004: Deep Learning and Neural Computation (4 cr)
+- CSE4006: Distributed Computing Systems (4 cr)
+- CSE4019: Applications of Artificial Intelligence (4 cr)
+- Additional approved technical electives listed in the elective basket.
+
+4. Open Electives (Minimum 12.0 Credits):
+Interdisciplinary courses from management, science, or other engineering disciplines.
+
+5. Graduation Criteria:
+- Completion of all 160 credits with a minimum Cumulative Grade Point Average (CGPA) of 5.0/10.0.
+- No active standing arrears or incomplete F grades in core courses.
+- Compliance with minimum residency requirement of 4 academic years (8 semesters).

@@ -1,49 +1,25 @@
 Can I take CSE4019 if I have completed CSE3002, CSE3004, CSE3008, and CSE3015?
-
 Can I take CSE4019 if I have only completed CSE2001?
-
 What are the prerequisites for CSE4019?
-
 What courses do I need before taking Machine Learning (CSE3008)?
-
 Can I take CSE3008 without CSE3015?
-
 Can I take CSE3002 after completing CSE2001?
-
 Is CSE2001 required before taking CSE4019?
-
-What is the prerequisite chain for CSE4019?
-
 Can I take CSE3015 without completing CSE3004?
-
-What happens if I try to take CSE4019 without completing all prerequisites?
-
 Can I directly take CSE4019 after CSE2001?
-
 Which courses are required before taking Data Structures (CSE3002)?
-
-Can I take CSE3004 without any prerequisites?
-
-List all prerequisites for CSE3008.
-
-Can I take CSE4019 if I am missing CSE3015?
-
-What courses must I complete before Artificial Intelligence applications?
-
-Is Probability and Statistics required for Machine Learning?
-
-Can I skip Discrete Mathematics and still take AI course?
-
-What is the full dependency chain for CSE4019?
-
-Can I enroll in a course that has missing prerequisites?
-
-What are the prerequisites for a course not in the catalog?
-
-Can I take CSE9999?
-
-What should I do if prerequisite information is missing?
-
-Is there any course that does not require prerequisites?
-
-Can I take Machine Learning after completing only Discrete Mathematics?
+What is the full prerequisite chain for CSE4019?
+What is the prerequisite path for Machine Learning (CSE3008) starting from Python?
+What is the full dependency chain for Natural Language Processing (CSE3015)?
+What courses must I complete before taking Theory of Computation (CSE3004)?
+Starting from CSE1012, how do I reach Applications of AI (CSE4019)?
+How many total credits are required to graduate with B.Tech CSE?
+What are the core course requirements for B.Tech Computer Science?
+What are the requirements to declare a Minor in Data Science?
+What is the minimum grade required in prerequisite courses to register for advanced subjects?
+What is the maximum credit limit per semester for regular undergraduate students?
+Which professor is teaching Applications of AI (CSE4019) next Fall?
+Are there any open seats available in Data Structures (CSE2001) this semester?
+What is the email address of the instructor for Machine Learning?
+Can I take CSE9999 next semester?
+Does the computer science department provide on-campus hostel placement guarantee?

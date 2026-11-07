@@ -1,0 +1,28 @@
+PROGRAM: Minor in Data Science and Artificial Intelligence
+Offered by: Department of Analytics & Data Science
+Total Credits Required: 20.0 Credits
+
+Eligibility Criteria:
+- Open to students enrolled in non-computing majors or computing majors seeking domain specialization.
+- Minimum CGPA of 7.0 at the time of declaring the minor (at the end of 2nd or 3rd semester).
+
+Required Core Courses (12.0 Credits):
+1. CSE1022: Foundations of Data Science (Credits: 3.0)
+   Prerequisite: None
+2. MAT1011: Probability and Statistics (Credits: 4.0)
+   Prerequisite: MAT1001 Calculus
+3. CSE2001: Data Structures and Algorithms (Credits: 4.0)
+   Prerequisite: CSE1012, CSE2005
+4. Capstone Analytics Project (Credits: 1.0)
+   Prerequisite: Completion of 2 Minor courses
+
+Elective Courses (Minimum 8.0 Credits - choose 2 of the following):
+- CSE3008: Machine Learning and Statistical Learning (Credits: 4.0, Prerequisites: CSE2001, MAT1011)
+- CSE4004: Deep Learning and Neural Computation (Credits: 4.0, Prerequisite: CSE3008)
+- CSE4019: Applications of Artificial Intelligence (Credits: 4.0, Prerequisites: CSE3002, CSE3008, CSE3004, CSE3015)
+- CSE2024: Database Management Systems (Credits: 4.0, Prerequisite: CSE2001)
+
+Rules and Regulations for Minor:
+- Courses counted toward the minor cannot be double-counted toward program core or open electives without written approval from the Dean of Academics.
+- A minimum letter grade of 'C' or higher must be maintained across all courses applied to the Minor.
+- Failure in any elective requires repeating the course or choosing an alternate approved elective from the list.

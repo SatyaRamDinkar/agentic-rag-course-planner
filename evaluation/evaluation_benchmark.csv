@@ -1,0 +1,26 @@
+Query,Category,Expected_Decision
+"Can I take CSE4019 if I have completed CSE3002, CSE3004, CSE3008, and CSE3015?",Prerequisite Check,Eligible
+"Can I take CSE4019 if I have only completed CSE2001?",Prerequisite Check,Not Eligible
+"What are the prerequisites for CSE4019?",Prerequisite Check,Prereq List
+"What courses do I need before taking Machine Learning (CSE3008)?",Prerequisite Check,Prereq List
+"Can I take CSE3008 without CSE3015?",Prerequisite Check,Eligible
+"Can I take CSE3002 after completing CSE2001?",Prerequisite Check,Eligible
+"Is CSE2001 required before taking CSE4019?",Prerequisite Check,Yes
+"Can I take CSE3015 without completing CSE3004?",Prerequisite Check,Eligible
+"Can I directly take CSE4019 after CSE2001?",Prerequisite Check,Not Eligible
+"Which courses are required before taking Data Structures (CSE3002)?",Prerequisite Check,Prereq List
+"What is the full prerequisite chain for CSE4019?",Prerequisite Chain,Multi-hop Chain
+"What is the prerequisite path for Machine Learning (CSE3008) starting from Python?",Prerequisite Chain,Multi-hop Chain
+"What is the full dependency chain for Natural Language Processing (CSE3015)?",Prerequisite Chain,Multi-hop Chain
+"What courses must I complete before taking Theory of Computation (CSE3004)?",Prerequisite Chain,Multi-hop Chain
+"Starting from CSE1012, how do I reach Applications of AI (CSE4019)?",Prerequisite Chain,Multi-hop Chain
+"How many total credits are required to graduate with B.Tech CSE?",Program Requirements,Program Policy
+"What are the core course requirements for B.Tech Computer Science?",Program Requirements,Program Policy
+"What are the requirements to declare a Minor in Data Science?",Program Requirements,Program Policy
+"What is the minimum grade required in prerequisite courses to register for advanced subjects?",Program Requirements,Program Policy
+"What is the maximum credit limit per semester for regular undergraduate students?",Program Requirements,Program Policy
+"Which professor is teaching Applications of AI (CSE4019) next Fall?",Not in Docs,Abstain
+"Are there any open seats available in Data Structures (CSE2001) this semester?",Not in Docs,Abstain
+"What is the email address of the instructor for Machine Learning?",Not in Docs,Abstain
+"Can I take CSE9999 next semester?",Not in Docs,Abstain
+"Does the computer science department provide on-campus hostel placement guarantee?",Not in Docs,Abstain
