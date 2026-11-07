@@ -102,10 +102,11 @@ with tab3:
     st.subheader("System Evaluation & Benchmark Metrics")
     st.markdown("Official 25-query test set covering prerequisite checks, multi-hop chains, program policies, and safe abstention.")
     
-    col_m1, col_m2, col_m3 = st.columns(3)
-    col_m1.metric("Citation Coverage", "100.0%", "Chunk-level citations")
+    col_m1, col_m2, col_m3, col_m4 = st.columns(4)
+    col_m1.metric("Citation Coverage", "100.0%", "Verifiable chunk citations")
     col_m2.metric("Structure Compliance", "100.0%", "Mandatory 5 sections")
-    col_m3.metric("Abstention Accuracy", "100.0%", "Safe out-of-catalog refusal")
+    col_m3.metric("Prerequisite Accuracy", "86.7%", "13/15 (2 require clarification)")
+    col_m4.metric("Abstention Accuracy", "100.0%", "Safe out-of-catalog refusal")
 
     results_csv_path = "evaluation/evaluation_results.csv"
     if os.path.exists(results_csv_path):

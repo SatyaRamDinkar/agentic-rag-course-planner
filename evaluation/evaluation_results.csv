@@ -14,7 +14,7 @@ Clarifying questions (if needed):
 None.
 
 Assumptions / Not in catalog:
-Assumes a minimum passing grade of 'D' was achieved in all completed prerequisites.",0.63
+Assumes a minimum passing grade of 'D' was achieved in all completed prerequisites.",0.24
 Can I take CSE4019 if I have only completed CSE2001?,Prerequisite Check,Not Eligible,"Answer / Plan:
 Decision: Not Eligible. You cannot register for CSE4019 (Applications of Artificial Intelligence) yet.
 
@@ -32,10 +32,10 @@ Have you completed any of the missing courses (CSE3002, CSE3008, CSE3004, CSE301
 Assumptions / Not in catalog:
 Per Academic Regulations Section 2.1, concurrent enrollment in an unmet prerequisite is prohibited without formal HOD waiver.",0.02
 What are the prerequisites for CSE4019?,Prerequisite Check,Prereq List,"Answer / Plan:
-Decision: Not Eligible. You cannot register for CSE4019 (Applications of Artificial Intelligence) yet.
+The official prerequisites for CSE4019 (Applications of Artificial Intelligence) are: CSE3002, CSE3008, CSE3004, CSE3015.
 
 Why (requirements/prereqs satisfied):
-To take CSE4019, you must satisfy all prerequisites: CSE3002, CSE3008, CSE3004, CSE3015. Missing prerequisites: CSE3002, CSE3008, CSE3004, CSE3015.
+According to the official catalog entry in CSE4019.txt, enrollment in CSE4019 requires completion of: CSE3002, CSE3008, CSE3004, CSE3015.
 
 Citations:
 - CSE4019.txt#chunk_0
@@ -43,25 +43,25 @@ Citations:
 - CSE3008.txt#chunk_0
 
 Clarifying questions (if needed):
-Have you completed any of the missing courses (CSE3002, CSE3008, CSE3004, CSE3015) or earned equivalent transfer credit?
+Have you completed any of these prerequisites?
 
 Assumptions / Not in catalog:
-Per Academic Regulations Section 2.1, concurrent enrollment in an unmet prerequisite is prohibited without formal HOD waiver.",0.02
+Assumes each prerequisite must be completed with grade D or higher.",0.01
 What courses do I need before taking Machine Learning (CSE3008)?,Prerequisite Check,Prereq List,"Answer / Plan:
-The full prerequisite path for CSE3008 (Introduction to Machine Learning) is: CSE3002 -> CSE3008.
+The official prerequisites for CSE3008 (Introduction to Machine Learning) are: CSE3002.
 
 Why (requirements/prereqs satisfied):
-Direct prerequisites for CSE3008 are CSE3002. Full antecedent dependencies resolved recursively through the official catalog require: CSE3002.
+According to the official catalog entry in CSE3008.txt, enrollment in CSE3008 requires completion of: CSE3002.
 
 Citations:
 - CSE3008.txt#chunk_0
 - CSE3002.txt#chunk_0
 
 Clarifying questions (if needed):
-Which of these prerequisite courses have you completed so far?
+Have you completed any of these prerequisites?
 
 Assumptions / Not in catalog:
-Assumes each prerequisite course is passed with a minimum grade of D.",0.01
+Assumes each prerequisite must be completed with grade D or higher.",0.01
 Can I take CSE3008 without CSE3015?,Prerequisite Check,Eligible,"Answer / Plan:
 Decision: Not Eligible. You cannot register for CSE3008 (Introduction to Machine Learning) yet.
 
@@ -92,21 +92,20 @@ None.
 Assumptions / Not in catalog:
 Assumes course enrollment seat availability.",0.01
 Is CSE2001 required before taking CSE4019?,Prerequisite Check,Yes,"Answer / Plan:
-The full prerequisite path for CSE2001 (Data Structures and Algorithms) is: CSE1012 -> CSE2005 -> CSE2001.
+Decision: Yes, CSE2001 is indirectly required before taking CSE4019.
 
 Why (requirements/prereqs satisfied):
-Direct prerequisites for CSE2001 are CSE1012, CSE2005. Full antecedent dependencies resolved recursively through the official catalog require: CSE1012, CSE2005.
+CSE4019 requires CSE3002, and CSE3002 has CSE2001 as its mandatory prerequisite. Therefore CSE2001 is an antecedent dependency in the chain.
 
 Citations:
 - CSE2001.txt#chunk_0
-- CSE1012.txt#chunk_0
-- CSE2005.txt#chunk_0
+- CSE3002.txt#chunk_0
 
 Clarifying questions (if needed):
-Which of these prerequisite courses have you completed so far?
+Have you completed CSE2001 (Data Structures and Algorithms)?
 
 Assumptions / Not in catalog:
-Assumes each prerequisite course is passed with a minimum grade of D.",0.01
+Per Academic Regulation 2.1, all antecedent prerequisites must be completed.",0.01
 Can I take CSE3015 without completing CSE3004?,Prerequisite Check,Eligible,"Answer / Plan:
 Decision: Not Eligible. You cannot register for CSE3015 (Natural Language Processing) yet.
 
@@ -122,7 +121,7 @@ Clarifying questions (if needed):
 Have you completed any of the missing courses (CSE3002, CSE3008) or earned equivalent transfer credit?
 
 Assumptions / Not in catalog:
-Per Academic Regulations Section 2.1, concurrent enrollment in an unmet prerequisite is prohibited without formal HOD waiver.",0.01
+Per Academic Regulations Section 2.1, concurrent enrollment in an unmet prerequisite is prohibited without formal HOD waiver.",0.02
 Can I directly take CSE4019 after CSE2001?,Prerequisite Check,Not Eligible,"Answer / Plan:
 Decision: Not Eligible. You cannot register for CSE4019 (Applications of Artificial Intelligence) yet.
 
@@ -140,19 +139,19 @@ Have you completed any of the missing courses (CSE3002, CSE3008, CSE3004, CSE301
 Assumptions / Not in catalog:
 Per Academic Regulations Section 2.1, concurrent enrollment in an unmet prerequisite is prohibited without formal HOD waiver.",0.02
 Which courses are required before taking Data Structures (CSE3002)?,Prerequisite Check,Prereq List,"Answer / Plan:
-The full prerequisite path for CSE3002 (Artificial Intelligence) is: No prerequisites required for CSE3002..
+The official prerequisites for CSE3002 (Artificial Intelligence) are: None.
 
 Why (requirements/prereqs satisfied):
-Direct prerequisites for CSE3002 are None. Full antecedent dependencies resolved recursively through the official catalog require: no prior coursework.
+According to the official catalog entry in CSE3002.txt, enrollment in CSE3002 requires completion of: None.
 
 Citations:
 - CSE3002.txt#chunk_0
 
 Clarifying questions (if needed):
-Which of these prerequisite courses have you completed so far?
+Have you completed any of these prerequisites?
 
 Assumptions / Not in catalog:
-Assumes each prerequisite course is passed with a minimum grade of D.",0.01
+Assumes each prerequisite must be completed with grade D or higher.",0.01
 What is the full prerequisite chain for CSE4019?,Prerequisite Chain,Multi-hop Chain,"Answer / Plan:
 The full prerequisite path for CSE4019 (Applications of Artificial Intelligence) is: CSE3002 -> CSE3008 -> CSE1012 -> CSE2005 -> CSE1022 -> CSE2001 -> CSE3004 -> CSE3015 -> CSE4019.
 
@@ -221,19 +220,21 @@ Which of these prerequisite courses have you completed so far?
 Assumptions / Not in catalog:
 Assumes each prerequisite course is passed with a minimum grade of D.",0.01
 "Starting from CSE1012, how do I reach Applications of AI (CSE4019)?",Prerequisite Chain,Multi-hop Chain,"Answer / Plan:
-Decision: Eligible. You can enroll in CSE1012 (Problem Solving using Python).
+To reach CSE1012 starting from CSE1012, the primary foundational path requires completing CSE1012 -> CSE2001 -> CSE3002/CSE3008/CSE3004 -> CSE4019.
 
 Why (requirements/prereqs satisfied):
-The catalog lists no prerequisites for CSE1012.
+CSE4019 requires 4 concurrent prerequisite subjects: CSE3002, CSE3008, CSE3004, and CSE3015. Starting from CSE1012 unlocks CSE2001, but additional mathematics foundation (MAT1011) is also needed for CSE3008.
 
 Citations:
 - CSE1012.txt#chunk_0
+- CSE2001.txt#chunk_0
+- PROGRAM_BTECH_CSE.txt#chunk_0
 
 Clarifying questions (if needed):
-None.
+Have you completed your Mathematics requirements (MAT1001, MAT1011) alongside CSE1012?
 
 Assumptions / Not in catalog:
-Assumes course enrollment seat availability.",0.02
+Full semester sequencing depends on elective term offering availability.",0.01
 How many total credits are required to graduate with B.Tech CSE?,Program Requirements,Program Policy,"Answer / Plan:
 The B.Tech Computer Science and Engineering (CSE) degree requires completion of 160.0 total credits with a minimum CGPA of 5.0.
 
@@ -248,7 +249,7 @@ Clarifying questions (if needed):
 None.
 
 Assumptions / Not in catalog:
-Assumes standard 4-year degree completion without academic arrears.",0.03
+Assumes standard 4-year degree completion without academic arrears.",0.01
 What are the core course requirements for B.Tech Computer Science?,Program Requirements,Program Policy,"Answer / Plan:
 The B.Tech Computer Science and Engineering (CSE) degree requires completion of 160.0 total credits with a minimum CGPA of 5.0.
 
@@ -278,7 +279,7 @@ Clarifying questions (if needed):
 What is your current CGPA? (A minimum CGPA of 7.0 is required to declare the Minor).
 
 Assumptions / Not in catalog:
-Assumes courses taken for the Minor are not double-counted without Dean approval.",0.02
+Assumes courses taken for the Minor are not double-counted without Dean approval.",0.01
 What is the minimum grade required in prerequisite courses to register for advanced subjects?,Program Requirements,Program Policy,"Answer / Plan:
 Information grounded in academic catalog regarding 'What is the minimum grade required in prerequisite courses to register for advanced subjects?'.
 
@@ -309,7 +310,7 @@ Clarifying questions (if needed):
 None.
 
 Assumptions / Not in catalog:
-Assumes standard 4-year degree completion without academic arrears.",0.01
+Assumes standard 4-year degree completion without academic arrears.",0.02
 Which professor is teaching Applications of AI (CSE4019) next Fall?,Not in Docs,Abstain,"Answer / Plan:
 I don't have that information in the provided catalog/policies.
 
@@ -339,7 +340,7 @@ Clarifying questions (if needed):
 None.
 
 Assumptions / Not in catalog:
-Please check the live University Course Timetable or consult your Faculty Academic Advisor for semester section schedules.",0.02
+Please check the live University Course Timetable or consult your Faculty Academic Advisor for semester section schedules.",0.01
 What is the email address of the instructor for Machine Learning?,Not in Docs,Abstain,"Answer / Plan:
 I don't have that information in the provided catalog/policies.
 
@@ -354,7 +355,7 @@ Clarifying questions (if needed):
 None.
 
 Assumptions / Not in catalog:
-Please check the live University Course Timetable or consult your Faculty Academic Advisor for semester section schedules.",0.01
+Please check the live University Course Timetable or consult your Faculty Academic Advisor for semester section schedules.",0.02
 Can I take CSE9999 next semester?,Not in Docs,Abstain,"Answer / Plan:
 I don't have that information in the provided catalog/policies.
 
@@ -384,4 +385,4 @@ Clarifying questions (if needed):
 None.
 
 Assumptions / Not in catalog:
-Please check the live University Course Timetable or consult your Faculty Academic Advisor for semester section schedules.",0.02
+Please check the live University Course Timetable or consult your Faculty Academic Advisor for semester section schedules.",0.01
